@@ -1,0 +1,6 @@
+1.... local.. donde estan los archivos
+2... stagging area...<<<<<
+3... repo local....<<<<
+
+
+4.. subir a repo remoto
